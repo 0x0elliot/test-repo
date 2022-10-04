@@ -1,1 +1,3 @@
 things you need to do to pass devops class
+
+- learn vim and git again like a clown
